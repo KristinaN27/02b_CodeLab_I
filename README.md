@@ -1,4 +1,4 @@
-# 02b_CodeLab 1
+# 02b_CodeLab_I
 
 - Erzeugen Sie zwei Klassen : **App & Konto**
 - Legen Sie in App eine main()-Methode an
